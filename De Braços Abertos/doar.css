@@ -1,0 +1,141 @@
+#ong{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    width: auto;
+    color: yellow;
+    
+}
+
+#logo{
+    height: 200px;
+    width: 200px;  
+}
+
+table{
+    border-collapse: collapse;
+    align-items: center;
+    padding: auto;
+    width: auto;
+    justify-self: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu{
+    padding: 5px;
+    margin-bottom: 3px;
+    font-size: 30px;
+    background-color: darkblue;
+    background-size: 50px;
+    background-position: 100%;
+}
+
+#menu ul{
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+
+#menu ul li { 
+    display: inline; 
+
+}
+
+#menu ul li a { 
+    padding: 2px 10px; 
+    display: inline-block;  
+    color: white; 
+    text-decoration: none; 
+    
+}
+
+#menu ul li a:hover { 
+    background-color: white;
+    color: darkblue;
+    border-radius: 10%;
+}
+
+#menu span { 
+    background-color: white;
+    color: darkblue;
+    border-radius: 10%;
+   
+  }
+
+#bracos{
+    color: darkblue;
+}
+
+#abertos{
+    color: darkgreen;
+}
+
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: darkblue;
+    text-align: center;
+}
+
+.index{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+#subtopico{
+    color: darkblue;
+}
+
+#subtitulo{
+    font-size: 23px;
+}
+
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: darkblue;
+    font-size: xx-large;
+}
+
+#table{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tabela{
+    width: 200px;
+    height: 200px;
+}
+
+#linha{
+    padding: 8px;
+    text-align: center;
+    border-bottom: 2px solid darkblue ;
+}
+
+#dados{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    font-size:xx-large;
+}
+
+#pix{
+    width: 50x;
+    height: 50px;
+}
+
+#recurso{
+    align-items: left;
+    margin-left: 0px;
+}
+
+.rodape{
+    background-color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
